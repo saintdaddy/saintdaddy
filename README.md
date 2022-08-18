@@ -1,3 +1,6 @@
+<h1 align="center">Saintt 4455</h1>
+<h3 align="center">discord.gg/4455</h3>
+
 
 
 <p align="center">
@@ -9,3 +12,9 @@
 	<br>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanekiWeb&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark"> -->
 </p>
+
+
+</p>
+🛠  Software Languages
+<h3 align="left">Languages and Tools:</h3>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer">   </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
