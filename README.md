@@ -1,5 +1,5 @@
 <h1 align="center">Saintt Daddy</h1>
-<h3 align="center">discord.gg/4455</h3>
+<h3 align="center">discord.gg/kurdistan</h3>
 
 
 
