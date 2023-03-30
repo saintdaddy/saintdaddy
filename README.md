@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Reverse Engineering, C#**
 
-- 📫 How to reach me **Discord : Devlet Biziz Beyefendi 😸#4455 (1040282130690879579)**
+- 📫 How to reach me : <br>**Discord : Devlet Biziz Beyefendi 😸#4455 (1040282130690879579)**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
