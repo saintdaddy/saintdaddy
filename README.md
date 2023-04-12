@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saint</h1>
 
 
-- 🔭 I’m currently working on [Vare Obfuscator](https://github.com/saintdaddy/Vare-Obfuscator)
+- 🔭 I’m currently working on [Vare Stealer](https://github.com/saintdaddy/Vare-Stealer)
 
 - 🌱 I’m currently learning **Reverse Engineering, C#**
 
