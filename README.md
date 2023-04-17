@@ -14,7 +14,7 @@ class saint4455 {
     
     this.id = "1040282130690879579";
     
-    this.url = "discord.gg/uzgun - discord.gg/child";
+    this.url = null;
     
   }
   
