@@ -10,9 +10,9 @@ class saint4455 {
 
   async saintdaddy() {
   
-    this.discord = "Saint Paşa#1397";
+    this.discord = null;
     
-    this.id = "1097483231298867232";
+    this.id = null;
     
     this.url = null;
     
